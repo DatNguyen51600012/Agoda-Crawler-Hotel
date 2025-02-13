@@ -18,7 +18,7 @@ async function main() {
   // const _limit = 300;
   // let _skip = 0;
   // let hasContent = true;
-  // let noRoomCount = 0;
+  
   // do {
   //   const hotels = await HotelModel.find({}).skip(_skip).limit(_limit);
   //   for (const hotel of hotels) {
